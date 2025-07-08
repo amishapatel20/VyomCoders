@@ -58,16 +58,6 @@
 - 🔄 **Scalable** to vulnerable regions across India: Uttarakhand, Chhattisgarh, Western Ghats  
 - 🌐 **Integrates with existing dashboards** for seamless usability
 
----
-
-### 💸 Estimated Costs  
-| Resource | Estimate |
-|---------|----------|
-| GPU (AWS/GCP) | ₹5,000 – ₹15,000/month |
-| API & Satellite Data Access | ₹500 – ₹1,000/month |
-| Kaggle / Azure GPU (Optional) | ₹850 – ₹2,500/project |
-
----
 
 ### 📌 Project Status  
 - ✅ Core AI models prototyped  
@@ -75,32 +65,5 @@
 - 🖥️ UI wireframes and architecture diagrams available  
 - 📈 Ready for testing and deployment with field agencies
 
----
 
-### 🛠️ How to Contribute  
-1. Fork this repo  
-2. Clone your fork  
-3. Create a new branch  
-4. Make your changes  
-5. Submit a Pull Request!
 
----
-
-### 📜 License  
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-### 🤝 Team VyoMCoders  
-Team Lead: Juee Jamsandekar  
-Contributors: [Add names here]
-
----
-
-### 🌐 Contact & Links  
-📫 For queries, collaboration, or deployment discussions, reach out via GitHub Issues or email.  
-📷 Diagrams, mockups, and more visuals coming soon!
-
----
-
-> ⚠️ _Built with purpose. Tuned for India. Ready for the future of wildfire prevention._
